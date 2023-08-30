@@ -1,6 +1,6 @@
 # Anish Mangla 's First CS 193 Homework
 <br>
-Some of my favourite things about this class is:
+##Some of my favourite things about this class is:
 - Easy and Simple to follow
 - GPA booster class
 - the teachers are Sophomores i.e. they are students like me and connect to me better
